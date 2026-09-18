@@ -1,0 +1,7 @@
+{
+  "name": "FreeLook",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/isimp/FreeLook",
+  "description": "Hold a key to look around while your character keeps facing and aiming where it was.",
+  "dependencies": []
+}
