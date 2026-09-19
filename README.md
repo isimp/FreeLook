@@ -6,6 +6,8 @@ The view stays within the game's normal camera limits and slows gently toward th
 
 FreeLook only runs on your own machine. Nothing it changes is sent to other players, and servers do not need it. It does not work while sitting in a chair or lying in a bed.
 
+![Running from enemies with FreeLook](https://raw.githubusercontent.com/isimp/FreeLook/main/docs/images/screenshot.webp)
+
 ## AI notice
 
 Most of FreeLook was written by Claude Code (Anthropic), which did the heavy lifting on implementation and design. Heads-up so you can judge for yourself.
