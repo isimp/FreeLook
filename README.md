@@ -6,6 +6,10 @@ The view stays within the game's normal camera limits and slows gently toward th
 
 FreeLook only runs on your own machine. Nothing it changes is sent to other players, and servers do not need it. It does not work while sitting in a chair or lying in a bed.
 
+## AI notice
+
+Most of FreeLook was written by Claude Code (Anthropic), which did the heavy lifting on implementation and design. Heads-up so you can judge for yourself.
+
 ## Settings
 
 All settings are in BepInEx/config/isimp.FreeLook.cfg, each with a description. They include the key, how far you can look, how quickly the view returns and how the crosshair fades.
