@@ -25,7 +25,7 @@ Usage:
         --team isimp --categories "Quality of Life,Open Source,Valheim 1.0"
 
     THUNDERSTORE_TOKEN=... python3 tools/publish.py dist/thunderstore/FreeLook-0.1.0.zip --store thunderstore \\
-        --team isimp --categories "ai-generated,mods,tweaks,client-side"
+        --team isimp --categories "ai-generated,mods,tweaks,client-side,deep-north-update"
 
     python3 tools/publish.py dist/hexium/FreeLook-0.1.0.zip --check-only
 """
